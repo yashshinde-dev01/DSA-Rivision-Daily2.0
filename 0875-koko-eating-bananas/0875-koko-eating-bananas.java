@@ -7,14 +7,7 @@ class Solution {
                 max=piles[i];
             }
         }
-        // for(int i=1;i<=max;i++){
-        //     int speed=kokoeat(piles,i);
-        //     if(speed<=h){
-        //         return i;
-        //     }
-        // }
-        // return -1;
-        int l=0;
+        int l=1;
         int r=max;
         while(l<=r){
             int mid=l+(r-l)/2;
