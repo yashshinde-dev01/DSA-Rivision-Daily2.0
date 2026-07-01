@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1870-minimum-speed-to-arrive-on-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1870-minimum-speed-to-arrive-on-time) |
 ## Sliding Window
 |  |
 | ------- |
