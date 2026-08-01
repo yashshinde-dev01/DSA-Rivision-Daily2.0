@@ -15,24 +15,18 @@
  */
 class Solution {
     public void flatten(TreeNode root) {
-        Queue<TreeNode>que=new LinkedList<>();
-        if(root==null)return;
-        insert(root,que);
-        TreeNode curr=que.poll();
-        while(!que.isEmpty()){
-            TreeNode next=que.poll();
-            curr.left=null;
-            curr.right=next;
-            curr=next;
-
+        TreeNode curr=root;
+        while(curr!=null){
+            if(curr.left!=null){
+                TreeNode temp=curr.left;
+                while(temp.right!=null){
+                    temp=temp.right;
+                }
+                temp.right=curr.right;
+                curr.right=curr.left;
+                curr.left=null;
+            }
+            curr=curr.right;
         }
-    }
-    static void insert(TreeNode root,Queue<TreeNode>que){
-        if(root==null){
-            return;
-        }
-        que.offer(root);
-        insert(root.left,que);
-        insert(root.right,que);
     }
 }
