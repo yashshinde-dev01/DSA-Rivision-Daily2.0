@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1480-running-sum-of-1d-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Queue
 |  |
