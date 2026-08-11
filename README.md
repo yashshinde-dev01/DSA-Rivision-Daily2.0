@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
 | [0643-maximum-average-subarray-i](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
