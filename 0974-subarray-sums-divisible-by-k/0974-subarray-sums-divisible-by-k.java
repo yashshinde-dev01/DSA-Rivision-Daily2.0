@@ -8,7 +8,7 @@ class Solution {
        for(int num:nums){
         sum+=num;
         int rem=sum%k;
-        if(rem<0)rem=sum%k+k;
+        if(rem<0)rem=rem+k;
         if(map.containsKey(rem)){
             cnt+=map.get(rem);
         }
