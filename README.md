@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0560-subarray-sum-equals-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
