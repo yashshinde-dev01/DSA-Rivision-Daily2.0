@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -274,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
+## String Matching
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
