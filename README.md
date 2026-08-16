@@ -292,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
+## Database
+|  |
+| ------- |
+| [0577-employee-bonus](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0577-employee-bonus) |
 <!---LeetCode Topics End-->
