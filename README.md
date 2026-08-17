@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0110-balanced-binary-tree) |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0110-balanced-binary-tree) |
@@ -240,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
