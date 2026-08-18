@@ -8,17 +8,17 @@ class Solution {
         ArrayList<Character>lst=new ArrayList<>(map.keySet());
         Collections.sort(lst,(a,b)->map.get(b)-map.get(a));
 
-        String str="";
+        StringBuilder sb=new StringBuilder();
         for(int i=0;i<lst.size();i++){
             char ch=lst.get(i);
             int freq=map.get(ch);
 
             for(int j=0;j<freq;j++){
-                str+=ch;
+                sb.append(ch);
             }
     
         }
-        return str;
+        return sb.toString();
 
     }
 }
