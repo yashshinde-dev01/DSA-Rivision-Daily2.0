@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -311,11 +312,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
+| [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
 ## Hash Function
 |  |
