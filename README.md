@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 ## Trie
 |  |
