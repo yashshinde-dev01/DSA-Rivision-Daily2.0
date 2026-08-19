@@ -5,18 +5,23 @@ class Solution {
             char ch=s.charAt(i);
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
-        ArrayList<Character>lst=new ArrayList<>(map.keySet());
-        Collections.sort(lst,(a,b)->map.get(b)-map.get(a));
+        // ArrayList<Character>lst=new ArrayList<>(map.keySet());
+        // Collections.sort(lst,(a,b)->map.get(b)-map.get(a));
 
+        PriorityQueue<Character>pq=new PriorityQueue<>(
+            (a,b)->map.get(b)-map.get(a)
+        );
+
+        for(char key:map.keySet()){
+            pq.add(key);
+        }
         StringBuilder sb=new StringBuilder();
-        for(int i=0;i<lst.size();i++){
-            char ch=lst.get(i);
+        while(!pq.isEmpty()){
+            char ch=pq.poll();
             int freq=map.get(ch);
-
-            for(int j=0;j<freq;j++){
+            for(int i=0;i<freq;i++){
                 sb.append(ch);
             }
-    
         }
         return sb.toString();
 
