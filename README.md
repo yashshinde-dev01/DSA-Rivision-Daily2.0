@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0707-design-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0707-design-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
 |  |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
+| [0707-design-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0707-design-linked-list) |
 ## Iterator
 |  |
 | ------- |
