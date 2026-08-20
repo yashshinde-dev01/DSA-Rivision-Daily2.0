@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Divide and Conquer
