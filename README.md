@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -409,4 +411,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
