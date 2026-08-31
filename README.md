@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0162-find-peak-element) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0225-implement-stack-using-queues) |
