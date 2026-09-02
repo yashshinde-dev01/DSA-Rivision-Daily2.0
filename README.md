@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1544-make-the-string-great) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Function
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0735-asteroid-collision) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
+| [2696-minimum-string-length-after-removing-substrings](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Recursion
 |  |
 | ------- |
