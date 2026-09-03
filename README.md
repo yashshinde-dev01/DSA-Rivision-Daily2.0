@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0735-asteroid-collision) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
 | [0572-subtree-of-another-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0572-subtree-of-another-tree) |
 | [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
@@ -443,4 +445,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
+| [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
