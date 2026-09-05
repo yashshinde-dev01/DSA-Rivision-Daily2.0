@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0144-binary-tree-preorder-traversal) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
@@ -433,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 ## Data Stream
 |  |
