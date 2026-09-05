@@ -1,9 +1,11 @@
 class CustomStack {
 
     int[]stack;
+    int[]inc;
     int ptr;
     public CustomStack(int maxSize) {
         this.stack=new int[maxSize];
+        this.inc=new int[maxSize];
         ptr=-1;
     }
     
@@ -19,21 +21,22 @@ class CustomStack {
         if(ptr==-1){
             return -1;
         }
-        int popped=stack[ptr];
+        int res=inc[ptr]+stack[ptr];
+        if(ptr>0){
+            inc[ptr-1]+=inc[ptr];
+        }
+        inc[ptr]=0;
         ptr--;
-        return popped;
+
+        return res;
     }
     
     public void increment(int k, int val) {
-        if(stack.length<k){
-            for(int i=0;i<=ptr;i++){
-                stack[i]=stack[i]+val;
-            }
-        }else{
-         for(int i=0;i<k;i++){
-            stack[i]=stack[i]+val;
-         }
-        }
+       int limit=Math.min(k,ptr+1);
+
+       if(limit>0){
+        inc[limit-1]+=val;
+       }
     }
 }
 
