@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
 |  |
 | ------- |
@@ -382,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
 | [0856-score-of-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1544-make-the-string-great) |
@@ -440,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 ## Data Stream
 |  |
