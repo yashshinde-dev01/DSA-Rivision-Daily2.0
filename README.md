@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
@@ -466,5 +468,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
