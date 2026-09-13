@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
