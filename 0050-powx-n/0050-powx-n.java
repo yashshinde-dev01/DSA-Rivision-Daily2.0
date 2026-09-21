@@ -6,14 +6,16 @@ class Solution {
         exp=-(exp);
         x=1/x;
      }  
-     while(exp>0){
-        if(exp%2!=0){
+     return power(x,exp,ans);
+
+    }
+    double power(double x,long n,double ans){
+        if(n==0){
+            return ans;
+        }
+        if(n%2!=0){
             ans*=x;
         }
-        x=x*x;
-        exp=exp/2;
-     }
-     return ans;
-
+        return power(x*x,n/2,ans);
     }
 }
