@@ -5,18 +5,26 @@ class Solution {
         int ans=0;
         for(int i=0;i<n;i++){
            if(vis[i]==false){
-            dfs(i,vis,isConnected);
+            bfs(i,vis,isConnected);
             ans++;
            } 
         }
         return ans;
     }
-    void dfs(int node,boolean[]vis,int[][]graph){
-        vis[node]=true;
+     void bfs(int node, boolean[] vis, int[][] graph){
+        Queue<Integer> q = new LinkedList<>();
 
-        for(int j=0;j<graph.length;j++){
-            if(graph[node][j]==1 && vis[j]==false){
-                dfs(j,vis,graph);
+        q.offer(node);
+        vis[node] = true;
+
+        while(!q.isEmpty()){
+            int curr = q.poll();
+
+            for(int j = 0; j < graph.length; j++){
+                if(graph[curr][j] == 1 && !vis[j]){
+                    vis[j] = true;
+                    q.offer(j);
+                }
             }
         }
     }
