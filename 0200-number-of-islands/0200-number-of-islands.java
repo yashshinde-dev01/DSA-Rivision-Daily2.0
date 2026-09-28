@@ -7,30 +7,27 @@ class Solution {
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
               if(grid[i][j]=='1'){
-                bfs(grid,i,j,directions);
+                dfs(grid,i,j);
                 ans++;
               } 
             }
         }
         return ans;
     }
-    void bfs(char[][]grid,int m,int n,int[][]directions){
-        Queue<int[]>que=new LinkedList<>();
-        que.offer(new int[]{m,n});
-        grid[m][n]='0';
-        while(!que.isEmpty()){
-            int[]val=que.poll();
-            int i=val[0];
-            int j=val[1];
-            for(int[]dir:directions){
-                int new_i=i+dir[0];
-                int new_j=j+dir[1];
+    void dfs(char[][]grid,int i,int j){
+        int m = grid.length;
+        int n = grid[0].length;
 
-                if(new_i>=0 && new_i<grid.length && new_j>=0 && new_j<grid[0].length && grid[new_i][new_j]=='1'){
-                    que.offer(new int[]{new_i,new_j});
-                    grid[new_i][new_j]='0';
-                }
-            }
+        
+        if(i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == '0') {
+            return;
         }
+        grid[i][j] = '0';
+
+       
+        dfs(grid, i - 1, j); // up
+        dfs(grid, i + 1, j); // down
+        dfs(grid, i, j - 1); // left
+        dfs(grid, i, j + 1); // right
     }
 }
