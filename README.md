@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
 ## Union-Find
@@ -527,8 +530,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
