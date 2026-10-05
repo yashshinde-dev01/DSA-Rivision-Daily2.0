@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Queue
 |  |
 | ------- |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1544-make-the-string-great) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2696-minimum-string-length-after-removing-substrings) |
 ## Hash Function
 |  |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
 | ------- |
@@ -542,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0207-course-schedule) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -555,4 +560,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0210-course-schedule-ii) |
+| [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
