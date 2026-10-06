@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1480-running-sum-of-1d-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2073-time-needed-to-buy-tickets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2073-time-needed-to-buy-tickets) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Union-Find
 |  |
@@ -541,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -561,4 +564,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0210-course-schedule-ii) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
