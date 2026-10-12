@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1544-make-the-string-great](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1544-make-the-string-great) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1061-lexicographically-smallest-equivalent-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 ## Directed Acyclic Graph
 |  |
