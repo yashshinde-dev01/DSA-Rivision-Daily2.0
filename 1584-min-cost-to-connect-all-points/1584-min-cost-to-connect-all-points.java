@@ -1,20 +1,19 @@
 class Solution {
-    class pair{
+    class pair {
         int wt;
-        int node;
+        int u;
+        int v;
 
-        pair(int wt,int node){
+        pair(int wt,int u,int v){
             this.wt=wt;
-            this.node=node;
+            this.u=u;
+            this.v=v;
         }
     }
     public int minCostConnectPoints(int[][] points) {
         int m=points.length;
         int n=points[0].length;
-        ArrayList<List<pair>>adj=new ArrayList<>();
-        for(int i=0;i<m;i++){
-            adj.add(new ArrayList<>());
-        }
+        ArrayList<pair>adj=new ArrayList<>();
         for(int i=0;i<m;i++){
             for(int j=i+1;j<m;j++){
                 int x1=points[i][0];
@@ -25,34 +24,54 @@ class Solution {
 
                 int d=Math.abs(x1-x2)+Math.abs(y1-y2);
 
-                adj.get(i).add(new pair(d,j));
-                adj.get(j).add(new pair(d,i));
+                adj.add(new pair(d,i,j));
             }
         }
-        return PrimsAlgo(adj,m);
+        return krushkal(adj,m);
     }
-    int PrimsAlgo(ArrayList<List<pair>>adj,int V){
+    
+    int krushkal(ArrayList<pair>adj,int V){
         int sum=0;
-        PriorityQueue<pair>pq=new PriorityQueue<>((a,b)->a.wt-b.wt);
-        boolean[]visi=new boolean[V];
-        pq.add(new pair(0,0));
-        while(!pq.isEmpty()){
-            pair val=pq.poll();
+        int[]parent=new int[V];
+        int[]rank=new int[V];
+        for(int i=0;i<V;i++){
+            parent[i]=i;
+        }
+        adj.sort((a,b)->Integer.compare(a.wt,b.wt));
 
-            int wt=val.wt;
-            int node=val.node;
+        for(pair val:adj){
+            int u=val.u;
+            int v=val.v;
 
-            if(visi[node]){
-                continue;
-            }
-            visi[node]=true;
-            sum+=wt;
-            for(pair temp:adj.get(node)){
-                if(!visi[temp.node]){
-                    pq.add(new pair(temp.wt,temp.node));
-                }
+            int pu=find(u,parent);
+            int pv=find(v,parent);
+
+            if(pu!=pv){
+                union(pu,pv,parent,rank);
+                sum+=val.wt;
             }
         }
         return sum;
+    }
+    void union(int x,int y,int[]parent,int[]rank){
+        int parent_x=find(x,parent);
+        int parent_y=find(y,parent);
+        if(parent_x==parent_y){
+            return ;
+        }
+        if(rank[parent_x]>rank[parent_y]){
+            parent[parent_y]=parent_x;
+        }else if(rank[parent_x]<rank[parent_y]){
+            parent[parent_x]=parent_y;
+        }else{
+            parent[parent_y]=parent_x;
+            rank[parent_x]++;
+        }
+    }
+    int find(int node,int[]parent){
+        if(node==parent[node]){
+            return node;
+        }
+        return parent[node]=find(parent[node],parent);
     }
 }
