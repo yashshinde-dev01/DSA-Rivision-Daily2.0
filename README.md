@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
@@ -539,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
@@ -602,4 +606,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
