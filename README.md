@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Binary Search
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0994-rotting-oranges) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
@@ -591,4 +594,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1584-min-cost-to-connect-all-points) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
