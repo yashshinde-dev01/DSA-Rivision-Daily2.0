@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0713-subarray-product-less-than-k) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1631-path-with-minimum-effort) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1631-path-with-minimum-effort) |
 ## Monotonic Queue
@@ -268,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
@@ -340,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
@@ -542,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0994-rotting-oranges](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1631-path-with-minimum-effort) |
@@ -568,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0684-redundant-connection) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1061-lexicographically-smallest-equivalent-string) |
@@ -627,5 +634,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1631-path-with-minimum-effort) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
