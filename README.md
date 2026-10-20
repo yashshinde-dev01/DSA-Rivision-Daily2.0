@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 ## Database
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
