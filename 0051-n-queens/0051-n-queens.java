@@ -11,6 +11,9 @@ class Solution {
         solve(board,0);
         return ans;
     }
+    ArrayList<Integer>column=new ArrayList<>();
+    ArrayList<Integer>rightdia=new ArrayList<>();
+    ArrayList<Integer>leftdia=new ArrayList<>();
     void solve(char[][]board,int row){
         int n=board.length;
         if(row>=n){
@@ -22,36 +25,19 @@ class Solution {
             return;
         }
         for(int col=0;col<n;col++){
-            if(isValid(board,row,col)){
-                board[row][col]='Q';
-                solve(board,row+1);
-                board[row][col]='.';
+            if(column.contains(col) || rightdia.contains(row+col) || leftdia.contains(row-col)){
+                continue;
             }
+            board[row][col]='Q';
+            column.add(col);
+            rightdia.add(row+col);
+            leftdia.add(row-col);
+            solve(board,row+1);
+            column.remove(column.size()-1);
+            rightdia.remove(rightdia.size()-1);
+            leftdia.remove(leftdia.size()-1);
+            board[row][col]='.';
         }
     }
-    boolean isValid(char[][]board,int r,int c){
-        // looking upward
-        int n=board.length;
-        for(int i=r-1; i>=0;i--){
-            if(board[i][c]=='Q'){
-                return false;
-            }
-        }
-        // Upper-right diagonal
-for (int i = r - 1, j = c + 1;
-     i >= 0 && j < n; i--, j++) {
-    if (board[i][j] == 'Q') {
-        return false;
-    }
-}
-
-// Upper-left diagonal
-for (int i = r - 1, j = c - 1;
-     i >= 0 && j >= 0; i--, j--) {
-    if (board[i][j] == 'Q') {
-        return false;
-    }
-}
-        return true;
-    }
+    
 }
