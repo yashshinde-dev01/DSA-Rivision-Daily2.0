@@ -480,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
@@ -665,4 +666,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
