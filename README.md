@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0994-rotting-oranges) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -495,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 ## Database
 |  |
 | ------- |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
+| [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1631-path-with-minimum-effort) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 ## Bitmask
 |  |
 | ------- |
@@ -687,4 +691,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0037-sudoku-solver) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
