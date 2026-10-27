@@ -15,8 +15,6 @@ class Solution {
         int m = grid.length;
         int n = grid[0].length;
 
-        boolean[][] visi = new boolean[m][n];
-
         int startRow = 0;
         int startCol = 0;
         int total = 0;
@@ -36,12 +34,12 @@ class Solution {
             }
         }
 
-        dfs(grid, visi, startRow, startCol, 0, total);
+        dfs(grid, startRow, startCol, 0, total);
 
         return count;
     }
 
-    private void dfs(int[][] grid, boolean[][] visi,
+    private void dfs(int[][] grid,
                      int row, int col, int visited,
                      int total) {
 
@@ -52,7 +50,7 @@ class Solution {
         }
 
         // Obstacle or already visited
-        if (grid[row][col] == -1 || visi[row][col]) {
+        if (grid[row][col] == -1) {
             return;
         }
 
@@ -65,18 +63,18 @@ class Solution {
         }
 
         // Mark current cell visited
-        visi[row][col] = true;
+        grid[row][col] = -1;
 
         // Explore all four directions
         for (int[] d : dire) {
             int newRow = row + d[0];
             int newCol = col + d[1];
 
-            dfs(grid, visi, newRow, newCol,
+            dfs(grid, newRow, newCol,
                 visited + 1, total);
         }
 
         // Backtracking
-        visi[row][col] = false;
+        grid[row][col]=0;
     }
 }
