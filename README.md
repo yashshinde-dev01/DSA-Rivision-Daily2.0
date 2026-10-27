@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0100-same-tree) |
@@ -456,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
@@ -487,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -571,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0037-sudoku-solver) |
+| [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
