@@ -22,14 +22,14 @@ class Solution {
         return ans;        
     }
     void solve(String[] arr,StringBuilder sb,int idx,String digits){
-        if(idx>=digits.length()){
-            ans.add(sb.toString());
-            return;
-        }
-        // if(sb.size()==digits.length()){
+        // if(idx>=digits.length()){
         //     ans.add(sb.toString());
         //     return;
         // }
+        if(sb.length()==digits.length() || idx>=digits.length()){
+            ans.add(sb.toString());
+            return;
+        }
 
         String str=arr[digits.charAt(idx)-'0'];//"abc","def"
 
