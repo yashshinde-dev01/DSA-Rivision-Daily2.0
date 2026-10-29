@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0130-surrounded-regions](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0130-surrounded-regions) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0037-sudoku-solver) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0169-majority-element](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
@@ -465,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0224-basic-calculator](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0224-basic-calculator) |
 | [0387-first-unique-character-in-a-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0394-decode-string) |
@@ -500,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
@@ -534,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0692-top-k-frequent-words](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0692-top-k-frequent-words) |
 ## Merge Sort
 |  |
@@ -574,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
+| [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0894-all-possible-full-binary-trees](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0894-all-possible-full-binary-trees) |
