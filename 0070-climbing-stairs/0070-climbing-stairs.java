@@ -4,16 +4,15 @@ class Solution {
         for(int i=0;i<=n;i++){
             dp.add(0);
         }
+        dp.set(0,1);
+        dp.set(1,1);
         return stairs(n,dp);
 
     }
     int stairs(int n,ArrayList<Integer>dp){
-        if(n==0 || n==1){
-            return 1;
+        for(int i=2;i<=n;i++){
+            dp.set(i,dp.get(i-1)+dp.get(i-2));
         }
-        if(dp.get(n)!=0)return dp.get(n);
-        int ans=stairs(n-1,dp)+stairs(n-2,dp);
-        dp.set(n,ans);
-        return ans;
+        return dp.get(n);
     }
 }
