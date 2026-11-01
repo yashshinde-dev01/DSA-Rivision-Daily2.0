@@ -1,15 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-       if(n<=2){
-        return n;
-       }
-       int prev2=1;
-       int prev1=2;
-       for(int i=3;i<=n;i++){
-        int temp=prev1+prev2;
-        prev2=prev1;
-        prev1=temp;
-       }
-       return prev1;
+        ArrayList<Integer>dp=new ArrayList<>();
+        for(int i=0;i<=n;i++){
+            dp.add(0);
+        }
+        return stairs(n,dp);
+
+    }
+    int stairs(int n,ArrayList<Integer>dp){
+        if(n==0 || n==1){
+            return 1;
+        }
+        if(dp.get(n)!=0)return dp.get(n);
+        int ans=stairs(n-1,dp)+stairs(n-2,dp);
+        dp.set(n,ans);
+        return ans;
     }
 }
