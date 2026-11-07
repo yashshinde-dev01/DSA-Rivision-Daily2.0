@@ -1,16 +1,33 @@
 class Solution {
+    int[][] dp;
+
     public int uniquePaths(int m, int n) {
-        int[][]dp=new int[m][n];
-       return countpath(m-1,n-1,dp); 
+        dp = new int[m][n];
+
+        for (int[] row : dp) {
+            Arrays.fill(row, -1);
+        }
+
+        return solve(0, 0, m, n);
     }
-    int countpath(int r,int c,int[][]dp){
-        if(r==0 || c==0){
+
+    int solve(int i, int j, int m, int n) {
+
+        if (i == m - 1 && j == n - 1) {
             return 1;
         }
-        if(dp[r][c]!=0){
-            return dp[r][c];
+
+        if (i >= m || j >= n) {
+            return 0;
         }
-        dp[r][c]=countpath(r-1,c,dp)+countpath(r,c-1,dp);
-        return dp[r][c];
+
+        if (dp[i][j] != -1) {
+            return dp[i][j];
+        }
+
+        int down = solve(i + 1, j, m, n);
+        int right = solve(i, j + 1, m, n);
+
+        return dp[i][j] = down + right;
     }
 }
