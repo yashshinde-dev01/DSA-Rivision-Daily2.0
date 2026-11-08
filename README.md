@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -612,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0063-unique-paths-ii) |
 | [0079-word-search](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0174-dungeon-game) |
