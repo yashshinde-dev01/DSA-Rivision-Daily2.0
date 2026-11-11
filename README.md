@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0739-daily-temperatures) |
+| [0741-cherry-pickup](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0904-fruit-into-baskets) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0741-cherry-pickup](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0894-all-possible-full-binary-trees) |
@@ -624,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0733-flood-fill) |
+| [0741-cherry-pickup](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0741-cherry-pickup) |
 | [0778-swim-in-rising-water](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0778-swim-in-rising-water) |
 | [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0994-rotting-oranges) |
