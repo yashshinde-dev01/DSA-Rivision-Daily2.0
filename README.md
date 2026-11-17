@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0130-surrounded-regions) |
 | [0139-word-break](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
