@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -762,6 +765,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
@@ -769,4 +773,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
 | [1049-last-stone-weight-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1049-last-stone-weight-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
