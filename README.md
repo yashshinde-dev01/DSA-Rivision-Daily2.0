@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0503-next-greater-element-ii) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0542-01-matrix) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0113-path-sum-ii) |
 | [0140-word-break-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0140-word-break-ii) |
+| [0494-target-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0980-unique-paths-iii) |
@@ -769,11 +772,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/yashshinde-dev01/DSA-Rivision-Daily2.0/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
